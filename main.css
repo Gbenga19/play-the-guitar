@@ -148,10 +148,3 @@ footer{
     padding-bottom: 6px;
     
 }
-@media(max-width:768px){
-    #main-header{
-        float: none;
-        text-align: ; 
-        
-    }
-}
