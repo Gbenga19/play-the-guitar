@@ -55,7 +55,7 @@ header{
     
     justify-content: space-around;
     align-items: center;
-    background-color:rgba(14, 2, 2, 1);
+    background-color:rgb(120, 127, 133);
 }
 #learn{
     position: relative;
@@ -115,7 +115,7 @@ h2{
     justify-content: center;
     padding-bottom: 15px;
     align-items: center;
-    color: white;  
+    color: gray;  
     font-weight: 900;
 }
 .guitar-type{ 
@@ -137,11 +137,11 @@ h2{
 .icon{
     padding-right: 8px;
     font-size: xx-large;
-    color: rgb(235, 88, 191);
+    color: white;
 }
 
 footer{
-    background-color: rgba(14, 2, 2, 1);
+    background-color: rgb(120, 127, 133);
     margin-top: 60px;
     margin-right: -25px;
     margin-left: -25px;  
