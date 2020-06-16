@@ -39,9 +39,9 @@ nav :hover{
     color: yellowgreen;
 }
 
-.acoustic li{
+li{
     list-style: none;
-    background-color:rgb(120, 127, 133);
+    
 }
 a{
     text-decoration: none;
@@ -120,6 +120,8 @@ h2{
     font-weight: 900;
 }
 .guitar-type{ 
+    background-color:rgb(120, 127, 133);
+    color: white; 
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -158,7 +160,7 @@ footer{
     background-size: cover;
     background-size: 100% 100%; 
     
-  } 
+  }  
 }
 
 @media screen and (max-width: 768px) {
