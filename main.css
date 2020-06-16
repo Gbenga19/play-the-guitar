@@ -95,13 +95,13 @@ header{
 #about{
     padding-bottom: 7px;
     font-size: 18px;
-    color: #6e6900;  
+    color: #1f1e00;  
     font-weight: 900; 
 }
 #enroll{
     padding-bottom: 7px;
     font-size: 18px;    
-    color: #6e6900;
+    color: #1f1e00;
     font-weight: 900;
 } 
 h2{
@@ -171,4 +171,4 @@ footer{
     background-size: cover;
     background-size: 100% 100%; 
   } 
-}
+} 
