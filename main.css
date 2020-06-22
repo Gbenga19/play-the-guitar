@@ -10,7 +10,7 @@ body{ background-image: url(https://res.cloudinary.com/gbenga19/image/upload/v15
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
-    background-size: ; 
+    background-size: 100% 100%; 
     
 } 
 body{
