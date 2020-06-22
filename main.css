@@ -10,7 +10,7 @@ body{ background-image: url(https://res.cloudinary.com/gbenga19/image/upload/v15
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
-    background-size: 100% 100%; 
+    background-size: ; 
     
 } 
 body{
@@ -95,20 +95,20 @@ header{
 #about{
     padding-bottom: 7px;
     font-size: 18px;
-    color: #FF69B4;  
+    color: #FF1493;  
     font-weight: 900; 
 }
 #enroll{
     padding-bottom: 7px;
     font-size: 18px;    
-    color: #FF69B4;
+    color: #FF1493;
     font-weight: 900;
 } 
 h2{
   color: black; 
   font-size: 27px; 
   font-weight: bolder;
-}
+} 
 #price{
     margin-top: 60px;
     display: flex;
