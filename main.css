@@ -95,6 +95,7 @@ header{
 }
  .btn :hover{
     background: pink;
+}
 #about{
     padding-bottom: 7px;  
     font-size: 18px;
@@ -179,7 +180,7 @@ footer{
   
 nav{
  text-align: center;
- display: block;
+ display: grid;
  margin-bottom: 8px;
 }
 } 
