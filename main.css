@@ -57,7 +57,7 @@ header{
     
     justify-content: space-around;
     align-items: center;
-    background-color:rgb(120, 127, 133);
+    background-color:rgba(120, 127, 133, 1);
 }
 #learn{
     position: relative;
@@ -93,8 +93,10 @@ header{
     cursor: pointer;
     color: white; 
 }
+ .btn :hover{
+    background: pink;
 #about{
-    padding-bottom: 7px;
+    padding-bottom: 7px;  
     font-size: 18px;
     color: #FF1493;  
     font-weight: 900; 
@@ -146,7 +148,7 @@ h2{
 }
 
 footer{
-    background-color: rgb(120, 127, 133);
+    background-color: rgba(120, 127, 133, 1);
     margin-top: 60px;
     margin-right: -25px;
     margin-left: -25px;  
@@ -170,12 +172,14 @@ footer{
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
-    background-size: 100% auto; 
+    background-size: 100% 100%; 
+    max-width: 100%; 
+    max-height: auto;
   } 
   
 nav{
  text-align: center;
- display: grid;
+ display: block;
  margin-bottom: 8px;
 }
 } 
