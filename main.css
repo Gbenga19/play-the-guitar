@@ -11,7 +11,7 @@ body{ background-image: url(https://res.cloudinary.com/gbenga19/image/upload/v15
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
-    background-size: 100% auto; 
+    background-size: 100% 100%; 
     
 } 
 body{
@@ -180,7 +180,7 @@ footer{
   
 nav{
  text-align: center;
- display: grid;
+ display: grid;  
  margin-bottom: 8px;
 }
 } 
