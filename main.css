@@ -173,8 +173,8 @@ footer{
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
-    background-size: 100% 100%;   
-    max-width: 100%; 
+    background-size: 100% auto;   
+    max-width: 100%;   
     max-height: auto;
   } 
   
