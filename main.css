@@ -11,7 +11,7 @@ body{ background-image: url(https://res.cloudinary.com/gbenga19/image/upload/v15
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
-    background-size: 100% 100%; 
+    background-size: 100% auto; 
     
 }   
 body{
@@ -173,7 +173,7 @@ footer{
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
-    background-size: auto auto;   
+    background-size: 100% auto;   
     max-width: 100%;   
     height: auto;   
   } 
