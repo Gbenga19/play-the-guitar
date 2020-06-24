@@ -156,7 +156,7 @@ footer{
     padding-bottom: 6px;
     
 }
-@media (min-width: 320px) {
+/*@media (min-width: 320px) {
   body {
     background-image: url(https://res.cloudinary.com/gbenga19/image/upload/v1592081896/guitar%20logo/guitar%20logo2/background%20guitar/pexels-photo-1656415_p5epkq.jpg;);
     background-repeat: no-repeat;
@@ -165,7 +165,7 @@ footer{
     max-width: 100%; 
     max-height: auto;
   }    
-}
+}*/
 
 @media (max-width: 768px) {
   body {
@@ -173,14 +173,10 @@ footer{
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
-    background-size: 100% auto;   
+    background-size: 100% 100%;   
     max-width: 100%;   
-    max-height: auto;
+    height: auto; 
   } 
   
-nav{
- text-align: center;
- display: grid;  
- margin-bottom: 8px;
-}
+
 } 
