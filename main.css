@@ -157,7 +157,7 @@ footer{
     padding-bottom: 6px;
     
 }
-/*@media (min-width: 320px) {
+@media (max-width: 450px) {
   body {
     background-image: url(https://res.cloudinary.com/gbenga19/image/upload/v1592081896/guitar%20logo/guitar%20logo2/background%20guitar/pexels-photo-1656415_p5epkq.jpg;);
     background-repeat: no-repeat;
@@ -167,7 +167,7 @@ footer{
    
   }    
 }
-*/ 
+ 
 @media (max-width: 768px) { 
   body {
     background-image: url(https://res.cloudinary.com/gbenga19/image/upload/v1592081896/guitar%20logo/guitar%20logo2/background%20guitar/pexels-photo-1656415_p5epkq.jpg;);
