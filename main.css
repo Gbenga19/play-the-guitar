@@ -33,7 +33,7 @@ margin-right: 10px;
 }
 nav{
  text-align: center;
- display: flex;
+ display: block;
  margin-bottom: 5px;
 }
 nav :hover{
@@ -42,7 +42,7 @@ nav :hover{
 
 li{
     list-style: none;
-    display: flex;
+    
 }
 a{
     text-decoration: none;
