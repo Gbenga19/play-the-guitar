@@ -33,8 +33,8 @@ margin-right: 10px;
 }
 nav{
  text-align: center;
- display: block;
- margin-bottom: 8px;
+ display: flex;
+ margin-bottom: 5px;
 }
 nav :hover{
     color: yellowgreen;
@@ -42,7 +42,7 @@ nav :hover{
 
 li{
     list-style: none;
-    
+    display: flex;
 }
 a{
     text-decoration: none;
@@ -68,7 +68,7 @@ header{
     color: black;
 }
  
-
+ 
 #mail input  {
     color: white;
     border: none;
