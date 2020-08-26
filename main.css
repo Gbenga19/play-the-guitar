@@ -37,6 +37,7 @@ color: yellowgreen;
 
 }
 nav{
+ color: white;
  display: block;
  margin-bottom: 3px;
  
@@ -51,12 +52,12 @@ li{
 
 a{
     text-decoration: none;
-    color: white;
+    color: yellowgreen;
 }
 header{
     padding-top: 7px;
     position: fixed;
-    top: 0;
+    top: 0; 
     left: 0;
     width: 100%;
     padding-bottom: 8px; 
@@ -66,7 +67,7 @@ header{
     background-color:rgba(120, 127, 133, 0.8);
 }
 #learn{
-    position: fixed;
+    position: relative;
     margin-top: 220px; 
     padding-bottom: 6px;
     z-index: -2;
