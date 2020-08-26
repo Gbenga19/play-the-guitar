@@ -37,8 +37,9 @@ color: yellowgreen;
 
 }
 nav{
- text-align: center;
  display: flex;
+ flex-direction: row;
+ justify-content: center
  margin-bottom: 3px;
  
 }
@@ -46,11 +47,12 @@ nav :hover{
     color: yellowgreen;
 }
 
-nav > li{
+li{
     display: flex;
     flex-wrap: wrap;
     flex-direction: row;
     list-style: none;
+    justify-content: space-between;
     
 }
 li + li{
@@ -171,6 +173,7 @@ footer{
     margin-right: -25px;
     margin-left: -25px;  
     padding-bottom: 6px;
+    color: yellowgreen;
     
 }
 @media (max-width: 450px) {
@@ -196,4 +199,4 @@ footer{
   } 
     
       
-}    
+}     
