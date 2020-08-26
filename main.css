@@ -37,8 +37,9 @@ margin-right: 10px;
 }
 nav{
  text-align: center;
- display: block;
- margin-bottom: 5px;
+ display: flex;
+ margin-bottom: 3px;
+ flex-wrap: wrap;
 }
 nav :hover{
     color: yellowgreen;
@@ -105,18 +106,19 @@ header{
 #about{
     padding-bottom: 7px;  
     font-size: 18px;
-    color: #FF1493;  
+    color: white;  
     font-weight: 900; 
     text-shadow: 0.1em 0.1em 0.1em #000;
 }
 #enroll{
     padding-bottom: 7px;
     font-size: 18px;    
-    color: #FF1493;
+    color: white;
     font-weight: 900;
     text-shadow: 0.1em 0.1em 0.1em #000;
 } 
-h2{
+h2{text-transform: uppercase;
+  text-shadow: 0.1em 0.1em 0.1em #000;
   color: yellowgreen;
   font-size: 27px; 
   font-weight: bolder; 
@@ -186,5 +188,5 @@ footer{
     max-height: auto;   
   } 
     
-    
+     
 }    
