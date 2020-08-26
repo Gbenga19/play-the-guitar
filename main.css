@@ -69,7 +69,8 @@ header{
     margin-top: 220px;
     padding-bottom: 6px;
     z-index: -2;
-    color: black;
+    color: yellowgreen;
+    text-shadow: 0.1em 0.1em 0.1em #000;
 }
  
  
@@ -94,7 +95,7 @@ header{
     font-weight: 900;
     border: none;
     border-radius: 2px;
-    background: black;  
+    background: yellowgreen;  
     cursor: pointer;
     color: white; 
 }
@@ -143,7 +144,7 @@ h2{
     padding-bottom: 10px;
 }
 .acoustic{
-    background-color: black;
+    background-color: yellowgreen;
     font-size: 23px; 
     width: 100%;
     color: white; 
@@ -185,5 +186,5 @@ footer{
     max-height: auto;   
   } 
     
-   
+    
 }    
