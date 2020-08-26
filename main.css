@@ -33,21 +33,28 @@ text-align: center;
 display: inline-flex;
 margin-left: 30px;
 margin-right: 10px; 
+color: yellowgreen;
 
 }
 nav{
  text-align: center;
  display: flex;
  margin-bottom: 3px;
- flex-wrap: wrap;
+ 
 }
 nav :hover{
     color: yellowgreen;
 }
 
-li{
+nav > li{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
     list-style: none;
     
+}
+li + li{
+margin-left:1em
 }
 a{
     text-decoration: none;
@@ -188,5 +195,5 @@ footer{
     max-height: auto;   
   } 
     
-     
+      
 }    
