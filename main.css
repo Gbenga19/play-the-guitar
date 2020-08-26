@@ -99,7 +99,7 @@ header{
     border-radius: 2px;
     background: yellowgreen;  
     cursor: pointer;
-    color: white; 
+    color: black;  
 }
  .btn :hover{
     background: grey;
