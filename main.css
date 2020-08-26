@@ -142,7 +142,7 @@ h2{text-transform: uppercase;
     align-items: center;
     width: 70%;  
     margin: 10px;
-    border: 2px solid white;
+    border: 2px solid yellowgreen;
     border-radius: 5px;
     padding-bottom: 10px;
 }
@@ -150,7 +150,7 @@ h2{text-transform: uppercase;
     background-color: yellowgreen;
     font-size: 23px; 
     width: 100%;
-    color: white; 
+    color: black;  
     
 }
 .icon{
