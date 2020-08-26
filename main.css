@@ -37,9 +37,7 @@ color: yellowgreen;
 
 }
 nav{
- display: flex;
- flex-direction: row;
- justify-content: center
+ display: block;
  margin-bottom: 3px;
  
 }
@@ -48,16 +46,9 @@ nav :hover{
 }
 
 li{
-    display: flex;
-    flex-wrap: wrap;
-    flex-direction: row;
-    list-style: none;
-    justify-content: space-between;
-    
+    list-style: none;  
 }
-li + li{
-margin-left:1em
-}
+
 a{
     text-decoration: none;
     color: white;
@@ -69,7 +60,7 @@ header{
     left: 0;
     width: 100%;
     padding-bottom: 8px; 
-     
+    font-weight: bold;
     justify-content: space-around;
     align-items: center;
     background-color:rgba(120, 127, 133, 0.8);
@@ -110,7 +101,7 @@ header{
     color: white; 
 }
  .btn :hover{
-    background: pink;
+    background: grey;
 }
 #about{
     padding-bottom: 7px;  
@@ -164,7 +155,7 @@ h2{text-transform: uppercase;
 .icon{
     padding-right: 8px;
     font-size: xx-large; 
-    color: white;
+    color: yellowgreen;
 }
 
 footer{
@@ -198,5 +189,5 @@ footer{
     max-height: auto;   
   } 
     
-      
+       
 }     
