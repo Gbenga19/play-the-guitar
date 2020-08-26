@@ -66,8 +66,8 @@ header{
     background-color:rgba(120, 127, 133, 0.8);
 }
 #learn{
-    position: relative;
-    margin-top: 220px;
+    position: fixed;
+    margin-top: 220px; 
     padding-bottom: 6px;
     z-index: -2;
     color: yellowgreen;
@@ -155,7 +155,7 @@ h2{text-transform: uppercase;
 .icon{
     padding-right: 8px;
     font-size: xx-large; 
-    color: yellowgreen;
+    
 }
 
 footer{
