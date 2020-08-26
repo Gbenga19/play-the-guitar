@@ -106,12 +106,14 @@ header{
     font-size: 18px;
     color: #FF1493;  
     font-weight: 900; 
+    text-shadow: 0.2em 0.2em 0.2em #000;
 }
 #enroll{
     padding-bottom: 7px;
     font-size: 18px;    
     color: #FF1493;
     font-weight: 900;
+    text-shadow: 0.2em 0.2em 0.2em #000;
 } 
 h2{
   color: black; 
@@ -184,4 +186,4 @@ footer{
   } 
     
   
-}   
+}    
