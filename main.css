@@ -76,8 +76,8 @@ header{
 }
  
  
-#mail input  {
-    color: white;
+#mail input  { 
+    color: black;
     border: 1px solid black;
     padding: 5px; 
     width: 100%;
