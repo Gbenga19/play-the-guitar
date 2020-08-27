@@ -39,8 +39,8 @@ color: yellowgreen;
 nav{
  color: white;
  display: block;
- margin-bottom: 3px;
- font-size: 21px;
+ margin-bottom: 2px;
+ font-size: 20px;
  
 }
 nav :hover{
@@ -74,7 +74,7 @@ header{
     z-index: -2;
     color: yellowgreen;
     text-shadow: 0.1em 0.1em 0.1em #000;
-    font-size: 20px;
+    font-size: 19px;
 }
  
  
@@ -108,8 +108,9 @@ header{
     background: grey;
 }
 #about{
-    padding-top: 20px
-    padding-bottom: 17px;  
+font-size: 17px
+    margin-top: 20px
+    margin-bottom: 17px;  
     font-size: 18px;
     color: white;  
     font-weight: 900; 
@@ -201,4 +202,4 @@ footer{
   } 
     
        
-}     
+}      
