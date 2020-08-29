@@ -36,9 +36,9 @@ margin-right: 0px;
 color: yellowgreen;
 
 }
-nav > ul >li{
+#nav-bar{
  color: black;
- display: block;
+ display: flex;  
  margin-bottom: 2px;
  font-size: 20px;
  
