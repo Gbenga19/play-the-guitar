@@ -36,7 +36,7 @@ margin-right: 0px;
 color: yellowgreen;
 
 }
-.nav-bar{
+#nav-bar{
  color: black;
  display: block;  
  margin-bottom: 2px;
@@ -49,6 +49,7 @@ nav :hover{
 
 li{
     list-style: none;  
+    color: black;
 }
 
 a{
