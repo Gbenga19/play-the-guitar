@@ -36,8 +36,8 @@ margin-right: 0px;
 color: yellowgreen;
 
 }
-nav{
- color: white;
+nav li{
+ color: black;
  display: block;
  margin-bottom: 2px;
  font-size: 20px;
