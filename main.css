@@ -36,7 +36,7 @@ margin-right: 0px;
 color: yellowgreen;
 
 }
-nav li{
+nav > ul{
  color: black;
  display: block;
  margin-bottom: 2px;
