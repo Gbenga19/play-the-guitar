@@ -36,7 +36,7 @@ margin-right: 0px;
 color: yellowgreen;
 
 }
-#nav-bar{
+ #main-header, #nav-bar{
  color: black;
  display: block;  
  margin-bottom: 2px;
@@ -49,7 +49,7 @@ nav :hover{
 
 li{
     list-style: none;  
-    color: black;
+    
 }
 
 a{
@@ -141,7 +141,7 @@ h2{text-transform: uppercase;
     font-size: 20px;
     margin-top: 50px;
     display: flex;
-    flex-wrap: no-wrap;
+    flex-wrap: no-wrap;  
     flex-direction: column;
     justify-content: center;
     padding-bottom: 15px;
