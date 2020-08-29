@@ -36,9 +36,9 @@ margin-right: 0px;
 color: yellowgreen;
 
 }
-#nav-bar{
+.nav-bar{
  color: black;
- display: flex;  
+ display: block;  
  margin-bottom: 2px;
  font-size: 20px;
  
@@ -123,7 +123,7 @@ header{
 
 #enroll{
     padding-top: 20px;
-    padding-bottom: 17px;
+    padding-bottom: 17px; 
     font-size: 18px;    
     color: white;
     font-weight: 900;
