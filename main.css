@@ -68,15 +68,19 @@ header{
     align-items: center;
     background-color:rgba(120, 127, 133, 0.8);
 }
-  #about> p{ 
-    font-size: 23px; 
+h3{
+color: black;
+font-size: 20px;
+}
+  #about> p{   
+    font-size: 22px; 
     color: black;
-    text-shadow: 0.1em 0.1em green;
+    text-shadow: 0.1em 0.1em 0.1em green;
 }
   #enroll> p{ 
-    font-size: 23px; 
+    font-size: 22px; 
     color: black;
-    text-shadow: 0.1em 0.1em green;
+    text-shadow: 0.1em 0.1em 0.1em green;
 }
      footer>h4{
 color: black;
@@ -135,7 +139,7 @@ color: black;
 } 
 h2{text-transform: uppercase;
   text-shadow: 0.1em 0.1em 0.1em #000;
-  color: yellowgreen;
+  color: lightgreen;
   font-size: 27px; 
   font-weight: bolder; 
 } 
@@ -184,7 +188,7 @@ footer{
     margin-right: -25px;
     margin-left: -25px;  
     padding-bottom: 6px;
-    color: green;
+    color: black;
     font-size: 20px;
     
 }
