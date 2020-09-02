@@ -33,7 +33,7 @@ text-align: center;
 display: inline-flex;
 margin-left: 0px;
 margin-right: 0px;  
-color: yellowgreen;
+color: green;
 
 }
  #main-header, #nav-bar{
@@ -54,7 +54,7 @@ li{
 
 a{
     text-decoration: none;
-    color: yellowgreen;
+    color: green;
 }
 header{
     padding-top: 7px;
@@ -69,14 +69,14 @@ header{
     background-color:rgba(120, 127, 133, 0.8);
 }
   #about> p{ 
-    font-size: 19px; 
+    font-size: 23px; 
     color: black;
-    text-shadow: 0.1em 0.1em 0.1em green;
+    text-shadow: 0.1em 0.1em green;
 }
   #enroll> p{ 
-    font-size: 19px; 
+    font-size: 23px; 
     color: black;
-    text-shadow: 0.1em 0.1em 0.1em green;
+    text-shadow: 0.1em 0.1em green;
 }
      footer>h4{
 color: black;
@@ -104,7 +104,7 @@ color: black;
     font-weight: 900;
     border: none;
     border-radius: 2px;
-    background: yellowgreen;  
+    background: green;  
     cursor: pointer;
     color: black;  
 }
@@ -128,7 +128,7 @@ color: black;
 #enroll{
     padding-top: 20px;
     padding-bottom: 17px; 
-    font-size: 18px;    
+    font-size: 20px;    
     color: white;
     font-weight: 900;
     text-shadow: 0.1em 0.1em 0.1em #000;
@@ -161,12 +161,12 @@ h2{text-transform: uppercase;
     align-items: justify;
     width: 70%;  
     margin: 10px;
-    border: 2px solid yellowgreen;
+    border: 2px solid green;
     border-radius: 5px;
     padding-bottom: 15px;
 }
 .acoustic{
-    background-color: yellowgreen;
+    background-color: green;
     font-size: 23px; 
     width: 100%;
     color: black;  
@@ -184,7 +184,7 @@ footer{
     margin-right: -25px;
     margin-left: -25px;  
     padding-bottom: 6px;
-    color: yellowgreen;
+    color: green;
     font-size: 20px;
     
 }
@@ -199,7 +199,7 @@ footer{
   }    
 }
  
-@media (max-width: 768px) { 
+@media (max-width: 768px) {   
   body {
     background-image: url(https://res.cloudinary.com/gbenga19/image/upload/v1592081896/guitar%20logo/guitar%20logo2/background%20guitar/pexels-photo-1656415_p5epkq.jpg;);
     background-repeat: no-repeat;
