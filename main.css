@@ -144,7 +144,7 @@ color: black;
 } 
 h2{text-transform: uppercase;
     
-  color: green;
+  color: darkgreen;
   font-size: 27px; 
   font-weight: bolder;
   text-shadow: 0.1em 0.1em 0.1em 0.1em #000;
@@ -159,7 +159,7 @@ h2{text-transform: uppercase;
     justify-content: center;
     padding-bottom: 15px;
     align-items: center;
-    color: green;  
+    color: darkgreen;  
     font-weight: 900; 
    text-shadow: 0.1em 0.1em 0.1em 0.1em #000; 
 }
@@ -223,4 +223,4 @@ footer{
        
         
 }      
-  
+   
