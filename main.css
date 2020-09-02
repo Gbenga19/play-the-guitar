@@ -148,6 +148,7 @@ h2{text-transform: uppercase;
   font-size: 27px; 
   font-weight: bolder;
   text-shadow: 0.1em 0.1em 0.1em 0.1em #000;
+  background-color: black;
 }   
 #price{
     width: 100%;  
@@ -160,7 +161,8 @@ h2{text-transform: uppercase;
     padding-bottom: 15px;
     align-items: center;
     color: darkgreen;  
-    font-weight: 900; 
+    background-color: black;
+    font-weight: 900;   
    text-shadow: 0.1em 0.1em 0.1em 0.1em #000; 
 }
 .guitar-type{ 
@@ -223,4 +225,4 @@ footer{
        
         
 }      
-   
+     
