@@ -68,12 +68,17 @@ header{
     align-items: center;
     background-color:rgba(120, 127, 133, 0.8);
 }
-   p{ 
+  #about> p{ 
     font-size: 19px; 
     color: black;
     text-shadow: 0.1em 0.1em 0.1em green;
 }
- h4{
+  #enroll> p{ 
+    font-size: 19px; 
+    color: black;
+    text-shadow: 0.1em 0.1em 0.1em green;
+}
+     footer>h4{
 color: black;
 }
  
@@ -107,7 +112,7 @@ color: black;
     background: grey;
 }
 #about{
-    font-size: 17px;
+    
     margin-top: 40px;
     margin-bottom: 27px;  
     font-size: 18px;
@@ -204,6 +209,6 @@ footer{
     max-width: 100%;
     max-height: auto;   
   } 
-    
+       
         
 }      
