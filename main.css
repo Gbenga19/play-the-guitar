@@ -68,16 +68,14 @@ header{
     align-items: center;
     background-color:rgba(120, 127, 133, 0.8);
 }
-#learn{
-    position: relative;
-    margin-top: 40px; 
-    padding-bottom: 8px;
-    z-index: -2;
-    color: yellowgreen;
-    text-shadow: 0.1em 0.1em 0.1em #000;
-    font-size: 19px;
+   p{ 
+    font-size: 19px; 
+    color: black;
+    text-shadow: 0.1em 0.1em 0.1em green;
 }
- 
+ h4{
+color: black;
+}
  
 #mail input  { 
     color: black;
@@ -207,5 +205,5 @@ footer{
     max-height: auto;   
   } 
     
-       
+        
 }      
