@@ -24,7 +24,7 @@ body{
     line-height: 1.4;
     text-align: center;
     display: block;
-    color: white;
+    color: ;
     padding-right: 20px;
     
 }
@@ -33,7 +33,7 @@ text-align: center;
 display: inline-flex;
 margin-left: 0px;
 margin-right: 0px;  
-color: green;
+color: black;
 
 }
  #main-header, #nav-bar{
@@ -75,12 +75,12 @@ font-size: 20px;
   #about> p{   
     font-size: 22px; 
     color: black;
-    text-shadow: 0.1em 0.1em 0.1em green;
+    
 }
   #enroll> p{ 
     font-size: 22px; 
     color: black;
-    text-shadow: 0.1em 0.1em 0.1em green;
+ 
 }
      footer>h4{
 color: black;
@@ -139,10 +139,10 @@ color: black;
 } 
 h2{text-transform: uppercase;
   text-shadow: 0.1em 0.1em 0.1em #000;
-  color: lightgreen;
+  color: cream;
   font-size: 27px; 
   font-weight: bolder; 
-} 
+}   
 #price{
     width: 100%;  
     font-size: 20px;
