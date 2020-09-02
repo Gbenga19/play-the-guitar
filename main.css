@@ -144,7 +144,7 @@ color: black;
 } 
 h2{text-transform: uppercase;
     
-  color: lightgreen;
+  color: green;
   font-size: 27px; 
   font-weight: bolder; 
 }   
@@ -158,8 +158,8 @@ h2{text-transform: uppercase;
     justify-content: center;
     padding-bottom: 15px;
     align-items: center;
-    color: lightgreen;  
-    font-weight: 900;
+    color: green;  
+    font-weight: 900; 
 }
 .guitar-type{ 
     background-color:rgba(120, 127, 133, 0.7);
