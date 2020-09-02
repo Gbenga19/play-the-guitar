@@ -160,8 +160,7 @@ h2{text-transform: uppercase;
     justify-content: center;
     padding-bottom: 15px;
     align-items: center;
-    color: darkgreen;  
-    background-color: black;
+    color: darkgreen;   
     font-weight: 900;   
    text-shadow: 0.1em 0.1em 0.1em 0.1em #000; 
 }
