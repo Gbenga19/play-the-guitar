@@ -74,8 +74,9 @@ header{
     background-color:rgba(120, 127, 133, 0.8);
 }
 h3{
-color: black; 
+color: yellow; 
 font-size: 20px;
+text-shadow: 0.1em 0.1em 0.1em #000;
 }
   #about> p{   
     font-size: 22px; 
@@ -85,7 +86,7 @@ font-size: 20px;
 }
   #enroll> p{  
     font-size: 22px; 
-    color: deepyellow;
+    color: yellow;
     text-shadow: 0.1em 0.1em 0.1em #000;
  
 }
@@ -104,7 +105,7 @@ color: black;
 #mail input {
     width: 100%;
     height: 30px;
-    margin: 5px 0;
+    margin: 5px 0; 
     border: 0;
 }
 
@@ -202,7 +203,7 @@ footer{
     font-size: 20px;
      
 }
-@media (max-width: 450px) {
+@media (min-width: 320px) {
   body {
     background-image: url(https://res.cloudinary.com/gbenga19/image/upload/v1592081896/guitar%20logo/guitar%20logo2/background%20guitar/pexels-photo-1656415_p5epkq.jpg;);
     background-repeat: no-repeat;
