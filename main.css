@@ -79,12 +79,12 @@ font-size: 20px;
 }
   #about> p{   
     font-size: 22px; 
-    color: black;
+    color: yellow;
     
 }
   #enroll> p{ 
     font-size: 22px; 
-    color: black;
+    color: yellow;
  
 }
      footer>h4{
@@ -198,7 +198,7 @@ footer{
     padding-bottom: 6px;
     color: black;
     font-size: 20px;
-    
+     
 }
 @media (max-width: 450px) {
   body {
