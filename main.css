@@ -80,11 +80,13 @@ font-size: 20px;
   #about> p{   
     font-size: 22px; 
     color: yellow;
+    text-shadow: 0.1em 0.1em 0.1em #000;
     
 }
-  #enroll> p{ 
+  #enroll> p{  
     font-size: 22px; 
-    color: yellow;
+    color: deepyellow;
+    text-shadow: 0.1em 0.1em 0.1em #000;
  
 }
      footer>h4{
