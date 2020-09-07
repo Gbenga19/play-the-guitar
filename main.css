@@ -76,7 +76,7 @@ header{
 h3{
 color: yellow; 
 font-size: 20px;
-text-shadow: 0.1em 0.1em 0.1em #000;
+text-shadow: 0.1em 0.1em 0.1em #000; 
 }
   #about> p{   
     font-size: 22px; 
@@ -203,7 +203,7 @@ footer{
     font-size: 20px;
      
 }
-@media (min-width: 320px) {
+@media (min-width: 320px) { 
   body {
     background-image: url(https://res.cloudinary.com/gbenga19/image/upload/v1592081896/guitar%20logo/guitar%20logo2/background%20guitar/pexels-photo-1656415_p5epkq.jpg;);
     background-repeat: no-repeat;
@@ -222,9 +222,9 @@ footer{
     background-size: cover;
     background-size: 100% auto;   
     max-width: 100%;
-    max-height: auto;   
+    max-height: auto;    
   } 
-       
+        
         
 }      
      
