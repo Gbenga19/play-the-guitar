@@ -108,7 +108,7 @@ color: black;
     border: 0;
 }
 
-.btn{
+button .btn{
     padding: 2px 20px;
     height: 30px;
     font-size: 1em;
