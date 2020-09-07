@@ -15,7 +15,7 @@ body{ background-image: url(https://res.cloudinary.com/gbenga19/image/upload/v15
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
-    background-size: 100% 100%; 
+    background-size: 100% auto; 
     
 }   
 body{
@@ -24,7 +24,6 @@ body{
     line-height: 1.4;
     text-align: center;
     display: block;
-    color: ;
     padding-right: 20px;
     
 }
@@ -169,7 +168,7 @@ h2{text-transform: uppercase;
 }
 .guitar-type{ 
     background-color:rgba(120, 127, 133, 0.7);
-    color: white; 
+    color: lightgreen; 
     display: flex;
     flex-direction: column; 
     flex-wrap: no-wrap;
@@ -210,6 +209,9 @@ footer{
     background-attachment: fixed;
     background-size: cover;
     background-size: 100% 100%;
+    max-width: 100%;
+    max-height: auto;  
+      
      
    
   }    
