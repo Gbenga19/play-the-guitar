@@ -117,7 +117,7 @@ color: black;
     border-radius: 2px;
     background: green;  
     cursor: pointer;
-    color: black;   
+    color: white;   
 }
  .btn :hover{
     background: grey;
