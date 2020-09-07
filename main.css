@@ -175,7 +175,7 @@ h2{text-transform: uppercase;
     align-items: justify;
     width: 70%;  
     margin: 10px;
-    border: 2px solid green;
+    border: 2px solid white;
     border-radius: 5px;
     padding-bottom: 15px;
 }
@@ -208,7 +208,7 @@ footer{
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
-    background-size: 100% 100%;
+    background-size: 100% auto;
     max-width: 100%;
     max-height: auto;  
       
