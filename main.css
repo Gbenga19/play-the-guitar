@@ -108,7 +108,7 @@ color: black;
     border: 0;
 }
 
- .btn{
+.btn{
     padding: 2px 20px;
     height: 30px;
     font-size: 1em;
@@ -168,7 +168,7 @@ h2{text-transform: uppercase;
 }
 .guitar-type{ 
     background-color:rgba(120, 127, 133, 0.7);
-    color: lightgreen; 
+    color: black; 
     display: flex;
     flex-direction: column; 
     flex-wrap: no-wrap;
