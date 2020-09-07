@@ -146,10 +146,10 @@ color: black;
 } 
 h2{text-transform: uppercase;
     
-  color: darkgreen;
+  color: white;
   font-size: 27px; 
   font-weight: bolder;
-  text-shadow: 0.1em 0.1em 0.1em 0.1em #000;
+  text-shadow: 0.1em 0.1em 0.1em #000;
   background-color: black;
 }   
 #price{
