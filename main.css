@@ -79,11 +79,11 @@ text-shadow: 0.1em 0.1em 0.1em #000;
 }
   #about> p{   
     font-size: 22px; 
-    color: yellow;
+    color: red;
     text-shadow: 0.1em 0.1em 0.1em #000;
     
 }
-  #enroll> p{  
+  #enroll> p{    
     font-size: 22px; 
     color: yellow;
     text-shadow: 0.1em 0.1em 0.1em #000;
