@@ -171,7 +171,7 @@ h2{text-transform: uppercase;
 }
 .guitar-type{ 
     background-color:rgba(120, 127, 133, 0.7);
-    color: white; 
+    color: black; 
     display: flex;
     flex-direction: column; 
     flex-wrap: no-wrap;
@@ -186,7 +186,7 @@ h2{text-transform: uppercase;
     background-color: green;
     font-size: 23px; 
     width: 100%;
-    color: black;  
+    color: white;  
     
 }
 .icon{
