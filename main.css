@@ -88,7 +88,7 @@ text-shadow: 0.1em 0.1em 0.1em #000;
   #enroll> p{    
     font-weight: bold;
     font-size: 22px; 
-    color: black;
+    color: white;
     text-shadow: 0.1em 0.1em 0.1em #000;
  
 }
@@ -171,7 +171,7 @@ h2{text-transform: uppercase;
 }
 .guitar-type{ 
     background-color:rgba(120, 127, 133, 0.7);
-    color: black; 
+    color: white; 
     display: flex;
     flex-direction: column; 
     flex-wrap: no-wrap;
