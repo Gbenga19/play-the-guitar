@@ -11,7 +11,7 @@ html{
 main{
     margin-left: 15px;  
 }
-body{ background-image: url(images (5).jpeg;);
+body{ background-image: url("images (5).jpeg";);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
