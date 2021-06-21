@@ -1,4 +1,4 @@
-@import url(https://res.cloudinary.com/gbenga19/image/upload/v1592081896/guitar%20logo/guitar%20logo2/background%20guitar/pexels-photo-1656415_p5epkq.jpg;);
+
 *{
     margin: 0;
     padding: 0;
@@ -11,7 +11,7 @@ html{
 main{
     margin-left: 15px;  
 }
-body{ background-image: url(https://res.cloudinary.com/gbenga19/image/upload/v1592081896/guitar%20logo/guitar%20logo2/background%20guitar/pexels-photo-1656415_p5epkq.jpg;);
+body{ background-image: url(images (5).jpeg;);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
